@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "brand":"Wix",
+        "logo":"/wix.png",
+        "description":"Wix is a cloud-based web development platform that allows users to create HTML5 websites and mobile sites through the use of online drag and drop tools. The platform is popular among small businesses, artists, and individuals who want to create their own website without needing to know how to code.",
+        "chat":true,
+        "totalChat":2,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["Automation"],
+        "tags":["#DigitalTransformation","#Wix","#Websitebuilder"],
+        "nextmeeting":"in 30 minutes"
+    },
+    {
+        "id":2,
+        "brand":"Shopify",
+        "logo":"/shopify.png",
+        "description":"Shopify is a cloud-based e-commerce platform that enables users to create and run their own online stores. It provides a wide range of tools and features, including a drag-and-drop website builder, payment processing, shipping and inventory management, and marketing and sales analytics. Shopify is popular among small businesses, artists, and individuals who want to sell their products online without needing to know how to code.",
+        "chat":true,
+        "totalChat":2,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["Ecommerce","B2B"],
+        "tags":["#Shopify","#Payment","#Websitebuilder","#Onlineshopping"],
+        "nextmeeting":"Tomorrow"
+    },
+    {
+        "id":3,
+        "brand":"MailChamp",
+        "logo":"/mailchimp.jpg",
+        "description":"Mailchimp is a marketing platform that helps businesses of all sizes to market their products and services online. With Mailchimp, you can create and send email campaigns, build and design websites, and run marketing automations to engage with your customers and grow your business.",
+        "chat":false,
+        "totalChat":2,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["SAAS","Mobile"],
+        "tags":["#Mailchimp","#TechInnovation","#Onlineshopping"],
+        "nextmeeting":"Tomorrow"
+    },
+    {
+        "id":4,
+        "brand":"Paypal",
+        "logo":"/paypal.png",
+        "description":"PayPal is a global online payments system that allows individuals and businesses to send and receive payments for goods and services, make donations, and pay bills online. With PayPal, you can easily shop, pay, and send money online without sharing your financial information with sellers.",
+        "chat":true,
+        "totalChat":4,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["MarketPlace"],
+        "tags":["#Paypal","#BuySellOnline","#Onlineshopping"],
+        "nextmeeting":"in 30 minutes"
+    },
+    {
+        "id":5,
+        "brand":"Disney",
+        "logo":"/Disney.jpeg",
+        "description":"Disney is a global entertainment company that creates and distributes animated films, television shows, music, stage plays, and theme parks. Disney is known for its iconic characters, stories, and brands, including Mickey Mouse, Cinderella, Star Wars, and Pixar. Disney's mission is to create entertainment experiences that inspire and connect people around the world.",
+        "chat":false,
+        "totalChat":0,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["SAAS","Technology"],
+        "tags":["#Disney","#Animation"],
+        "nextmeeting":"in 30 minutes"
+    },
+    {
+        "id":6,
+        "brand":"Google",
+        "logo":"/google.png",
+        "description":"Google is a global technology company that specializes in internet-related services and products. Google's mission is to organize the world's information and make it universally accessible and useful. Google's popular products and services include search, maps, Gmail, Google Drive, Google Docs, Google Sheets, Google Slides, Google Photos, Google Play, YouTube, and Android.",
+        "chat":true,
+        "totalChat":2,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["Automation","Finance"],
+        "tags":["#Google","#SmartFinance","#Android"],
+        "nextmeeting":"in 30 minutes"
+    },
+    {
+        "id":7,
+        "brand":"Microsoft",
+        "logo":"/microsoft.png",
+        "description":"Microsoft is a leading global technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, and personal computers and services. Microsoft's mission is to empower every person and every organization on the planet to achieve more.",
+        "chat":false,
+        "totalChat":2,
+        "members":["/avatar2.jpg","/avatar2.jpg"],
+        "categories":["Publishing","B2B"],
+        "tags":["#Microsoft","#Publishing"],
+        "nextmeeting":"in 30 minutes"
+    }
+]
